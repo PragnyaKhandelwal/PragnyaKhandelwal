@@ -12,8 +12,8 @@
 - 💬 Ask me about: `Python`, `C`, `C++`, `Java`, `SQL`, `Streamlit`, `Machine Learning`
 - 👯 I’m open to collaborating on **AI/ML, C++ tools, and full-stack web apps**
 - 🧠 Problem solver @ LeetCode
-- 📫 How to reach me: **(prag1704@gmail.com)**  
-- 📄 Know about my experiences: **[LinkedIn](www.linkedin.com/in/pragnya-khandelwal-163a20311)**
+- 📫 How to reach me: **prag1704@gmail.com**  
+- 📄 Know about my experiences: **www.linkedin.com/in/pragnya-khandelwal-163a20311**
 
 ---
 
