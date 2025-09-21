@@ -14,7 +14,6 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://github.com/PragnyaKhandelwal" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="www.linkedin.com/in/pragnya-khandelwal-163a20311" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
