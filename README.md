@@ -21,8 +21,8 @@
 
 ### ⚙️ GitHub Stats:
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=PragnyaKhandelwal&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats-eight.vercel.app/?user=PragnyaKhandelwal&theme=radical" />
+  <img width="47%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PragnyaKhandelwal&show_icons=true&theme=radical" />
+  <img width="47%" src="https://streak-stats.demolab.com/?user=PragnyaKhandelwal&theme=radical" />
 </p>
 
 ---
