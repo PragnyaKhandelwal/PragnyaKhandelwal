@@ -4,9 +4,9 @@
 ---
 
 - 🔭 I’m currently working on **ML + Streamlit projects**  
-- 🌱 Currently learning: **Data Analytics, AI, Full Stack Web Dev, and Open Source**
+- 🌱 Currently learning: **Data Analytics, AI, and Open Source**
 - 💬 Ask me about: `Python`, `C`, `C++`, `Java`, `SQL`, `Streamlit`, `Machine Learning`
-- 👯 I’m open to collaborating on **AI/ML, C++ tools, and full-stack web apps**
+- 👯 I’m open to collaborating on **AI/ML, and C++ tools**
 - 📫 How to reach me: **prag1704@gmail.com**  
 - 📄 Know about my experiences: **www.linkedin.com/in/pragnya-khandelwal-163a20311**
 
