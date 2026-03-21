@@ -29,6 +29,9 @@
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PragnyaKhandelwal&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PragnyaKhandelwal&theme=radical&area=true&hide_border=true" />
+</p>
 ---
 
 > 🚀 Always learning. Always building.  
