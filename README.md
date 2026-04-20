@@ -25,8 +25,16 @@
 
 ### ⚙️ GitHub Statistics:
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=PragnyaKhandelwal&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
-  <img height="195" src="https://streak-stats.demolab.com/?user=PragnyaKhandelwal&theme=radical&hide_border=true&card_height=195" />
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=PragnyaKhandelwal&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="192px" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=PragnyaKhandelwal&theme=radical&hide_border=true&card_height=192" height="192px" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
