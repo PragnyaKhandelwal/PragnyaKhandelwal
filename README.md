@@ -19,6 +19,9 @@
   <a href="https://discord.com/users/740803509313732609" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <a href="https://app.slack.com/client/T03QY1HBT52/dms?selected_team_id=T03QY1HBT52" target="_blank">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  </a>
 </p>
 
 ---
