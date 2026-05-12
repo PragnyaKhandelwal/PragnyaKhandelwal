@@ -11,14 +11,18 @@
 - 👯 Core Team Member at **JIIT Open-Source Developers Circle (JODC)**.
 - 📫 Reach me: **prag1704@gmail.com**
 
-### 🌐 Connect with Me:
-<p align="left">
+<p align="center">
+  <br>
+  <b>Connect with Me:</b>
+  <br><br>
   <a href="https://www.linkedin.com/in/pragnya-khandelwal-163a20311" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/740803509313732609" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://app.slack.com/client/T03QY1HBT52/dms?selected_team_id=T03QY1HBT52" target="_blank">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   </a>
