@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fe428e&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Pragnya;Passionate+Developer;AI/ML+Enthusiast;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fe428e&center=true&vCenter=true&width=435&lines=GSoC+'26+Developer+@+MNE;Open+Source+Contributor;AI/ML+%26+Data+Engineering;Core+Team+Member+@+JODC" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **AI/ML projects**
-- 🌱 Currently learning: **Data Analytics, AI, and Open Source**
--  💬 Ask me about: `Python`, `C`, `C++`, `Java`, `SQL\NoSQL`, `Streamlit`, `Machine Learning`, `Artificial Intelligence`, `QT`
-- 👯 I’m open to collaborating on **AI/ML, and C++ tools**
-- 📫 How to reach me: **prag1704@gmail.com**
-- 📄 Know about my experiences: **[LinkedIn](https://www.linkedin.com/in/pragnya-khandelwal-163a20311)**
+- 🚀 **GSoC '26 Developer** at **MNE-Python**, optimizing scientific visualization pipelines.
+- 🛠️ Actively contributing to **Kedro** (Data Engineering) and **Docling** (GenAI Data Preparation).
+- 🌱 Specializing in **High-Performance Systems (C++)** and **Predictive Modeling (Python)**.
+- 💬 Ask me about: `Python`, `C/C++`, `SQL`, `MLOps`, and `Production Pipelines`.
+- 👯 Core Team Member at **JIIT Open-Source Developers Circle (JODC)**.
+- 📫 Reach me: **prag1704@gmail.com**
 
 ### 🌐 Connect with Me:
 <p align="left">
@@ -42,5 +42,5 @@
 
 ---
 
-> 🚀 Always learning. Always building.  
-> 🌱 Let’s grow together in tech!
+> 🚀 Transforming raw data into proactive intelligence.
+> 🌱 Let’s build the future of open-source AI together!
