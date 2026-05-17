@@ -35,7 +35,7 @@
   <table align="center">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PragnyaKhandewal&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="PragnyaKhandewal's GitHub Stats" />
+        <img src="https://github-readme-stats.shion.dev/api?username=PragnyaKhandelwal&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="192px" />
       </td>
       <td>
         <img src="https://streak-stats.demolab.com/?user=PragnyaKhandelwal&theme=radical&hide_border=true&card_height=192" height="192px" />
